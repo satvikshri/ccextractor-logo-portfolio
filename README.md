@@ -39,6 +39,13 @@ I have created few designs, and have cherry picked some for the submission.
 </p>
 
 - Source files : [AI](/images/final.ai) [PSD](/images/final.psd)
+- Other coloured files are in /image folder.
+
+3. Simplest CCExtractor logo :
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/images/finak.png" width ="500" height="500">
+</p>
 
 All the files can be found in /images folder.
 
