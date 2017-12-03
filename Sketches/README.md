@@ -38,13 +38,13 @@ These are just sketches by hand. Thier decriptions are attached in the images it
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final6.jpg" width="500" >
+<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final6.JPG" width="500" >
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final7.jpg" width="500" >
+<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final7.JPG" width="500" >
 </p>
 
 ---
@@ -56,13 +56,13 @@ These are just sketches by hand. Thier decriptions are attached in the images it
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final9.jpg" width="500" >
+<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final9.JPG" width="500" >
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final10.jpg" width="500" >
+<img src="https://raw.githubusercontent.com/satvikshri/ccextractor-logo-portfolio/master/Sketches/final10.JPG" width="500" >
 </p>
 
 ---
